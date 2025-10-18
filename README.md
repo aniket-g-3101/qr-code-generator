@@ -12,6 +12,9 @@ A sleek and simple **QR Code Generator Web App** built with **HTML, CSS, and Jav
 * 🔹 **Lightweight & Fast** — No backend required, pure front-end magic!
 * 🔹 **Clean & Modern Design** — Minimal layout with smooth styling.
 
+
+<img width="1905" height="958" alt="image" src="https://github.com/user-attachments/assets/41f727a1-71a8-43ce-bda5-697ec3e3bcd7" />
+
 ---
 
 ##  How It Works
